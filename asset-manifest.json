@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56228426.css",
+    "main.js": "/static/js/main.57e2592d.js",
+    "static/media/Helvetica-rounded.otf": "/static/media/Helvetica-rounded.df374f732d8d59ef5980.otf",
+    "index.html": "/index.html",
+    "main.56228426.css.map": "/static/css/main.56228426.css.map",
+    "main.57e2592d.js.map": "/static/js/main.57e2592d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56228426.css",
+    "static/js/main.57e2592d.js"
+  ]
+}
